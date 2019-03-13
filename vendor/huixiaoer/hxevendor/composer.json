@@ -1,0 +1,23 @@
+{
+    "name": "huixiaoer/hxevendor",
+    "description": "vendor of hxe",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.2",
+        "upyun/sdk": "^3.3",
+        "qiniu/php-sdk": "^7.2",
+        "intervention/image": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "杜文涛",
+            "email": "wentao.du@huixiaoer.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "HxeVendor\\": "src/"
+        }
+    }
+}

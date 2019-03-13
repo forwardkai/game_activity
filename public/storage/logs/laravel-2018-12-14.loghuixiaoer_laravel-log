@@ -1,0 +1,1 @@
+05edcd58f89a huixiaoer_laravel ,  [2018-12-14 14:35:01] local.ERROR: read error on connection {"exception":"[object] (RedisException(code: 0): read error on connection at /home/www/huixiaoer_laravel/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:69)"} 
